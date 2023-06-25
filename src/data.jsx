@@ -60,6 +60,8 @@ import Infinito from "./assets/Infinito.jpg"
 import SafePal from "./assets/SafePal.jpg"
 import Spatium from "./assets/Spatium.jpg"
 import Torus from "./assets/Torus.jpg"
+import OpenSea from "./assets/OpenSea.jpg"
+import Compound from "./assets/Compound.jpg"
 
 
 export const data = [
